@@ -68,6 +68,10 @@ Once you have described the load on your system, you can investigate what happen
 
 Approach for coping with Load:
 
+Scale up or Vertical Scaling: Upgrading the hardware like RAM / Memory to cope with the increased load.
+
+Scale out or Horizontal Scaling: Adding a new server to handle the increased load.
+
 
 
 
