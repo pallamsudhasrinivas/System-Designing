@@ -84,7 +84,7 @@ We should design software in such a way that it hopefully minimizes pain during 
     3. Evolvability: Make it easy for engineers to make changes to the system in the future, adapting it for unanticipated use cases as requirements change. Also known as Extensibility, Modifibility or Plasticity
 
 
-<h3>Operability:</h3>
+<h4>Operability:</h4>
 
 Operations teams are vital to keeping a software system running smoothly. A good operations team typically is responsible for the following
 
@@ -110,14 +110,14 @@ Good operability means making routine tasks easy, allowing the operations team t
     7. Exhibiting predictable behavior, minimizing surprises
 
 
-<h3> Simplicity:</h3>
+<h4> Simplicity:</h4>
 Small software projects can have delightfully simple and expressive code, but as projects get larger, they often become very complex and difficult to understand. This complexity slows down everyone who is working on the system, further increasing the cost of maintenance. 
 
 One of the best tools for removing complexity is abstraction, A good abstraction can hide a great deal of implementation detail behind a clean simple-to-understand facade.
 
 
 
-<h2> Evolvability:</h2>
+<h4> Evolvability:</h4>
 
 In terms of organizational processes, Agile working patterns provide a framework for adapting to changes. Most discussions of these Agile techniques focus on fairly small and local scales.
 
