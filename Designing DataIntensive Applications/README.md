@@ -122,6 +122,10 @@ One of the best tools for removing complexity is abstraction, A good abstraction
 In terms of organizational processes, Agile working patterns provide a framework for adapting to changes. Most discussions of these Agile techniques focus on fairly small and local scales.
 
 
+<center><h1>Data Models and Query Launguages</h1></center>
+
+
+
 
 
 
