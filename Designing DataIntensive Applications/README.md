@@ -124,6 +124,10 @@ In terms of organizational processes, Agile working patterns provide a framework
 
 <center><h1>Data Models and Query Launguages</h1></center>
 
+1. Relation Database
+2. NoSql Database
+
+
 
 
 
