@@ -124,10 +124,12 @@ In terms of organizational processes, Agile working patterns provide a framework
 
 <center><h1>Data Models and Query Launguages</h1></center>
 
-1. Relation Database
-2. NoSql Database
+1. Relation Databases
+2. NoSQL Databases
+3. Time Series Databases
+   
 
-Relational Database:
+Relational Databases:
 
     Use Case:
 
@@ -135,7 +137,15 @@ Relational Database:
 
     Disadvantages:
 
-NoSql Database:
+NoSQL Databases:
+    
+    Use Case:
+
+    Advantages:
+
+    Disadvantages:
+
+Time Series Databases: Usually used whenever your data is associated with timestamps
     
     Use Case:
 
