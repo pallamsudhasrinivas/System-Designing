@@ -127,6 +127,22 @@ In terms of organizational processes, Agile working patterns provide a framework
 1. Relation Database
 2. NoSql Database
 
+Relational Database:
+
+    Use Case:
+
+    Advantages:
+
+    Disadvantages:
+
+NoSql Database:
+    
+    Use Case:
+
+    Advantages:
+
+    Disadvantages:
+
 
 
 
