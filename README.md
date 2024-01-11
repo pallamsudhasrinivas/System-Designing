@@ -1,2 +1,5 @@
 # System-Designing
-Resources related to System Designing 
+Resources related to System design 
+
+
+1. Summary of Designing Dataintensive Application Book
